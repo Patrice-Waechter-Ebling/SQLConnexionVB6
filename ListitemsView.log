@@ -1,0 +1,15 @@
+Ligne 13: La classe MSComctlLib.ListView du contrôle ListView1 n'est pas une classe de contrôle chargée.
+Ligne 19: Le nom de la propriété _ExtentX dans ListView1 est incorrect.
+Ligne 20: Le nom de la propriété _ExtentY dans ListView1 est incorrect.
+Ligne 21: Le nom de la propriété View dans ListView1 est incorrect.
+Ligne 22: Le nom de la propriété MultiSelect dans ListView1 est incorrect.
+Ligne 23: Le nom de la propriété LabelWrap dans ListView1 est incorrect.
+Ligne 24: Le nom de la propriété HideSelection dans ListView1 est incorrect.
+Ligne 25: Le nom de la propriété AllowReorder dans ListView1 est incorrect.
+Ligne 26: Le nom de la propriété Checkboxes dans ListView1 est incorrect.
+Ligne 27: Le nom de la propriété FlatScrollBar dans ListView1 est incorrect.
+Ligne 28: Le nom de la propriété FullRowSelect dans ListView1 est incorrect.
+Ligne 29: Le nom de la propriété GridLines dans ListView1 est incorrect.
+Ligne 30: Le nom de la propriété HotTracking dans ListView1 est incorrect.
+Ligne 31: Le nom de la propriété _Version dans ListView1 est incorrect.
+Ligne 36: Le nom de la propriété NumItems dans ListView1 est incorrect.
